@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="890a4eb1-15fe-43c4-8487-b1944b8680fa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/567DF3E0-9192-41BA-98DB-88BEC4C6696F/15/3561a8d9/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VoxelTutorial/World.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4684D128-CCC1-4E17-9166-D4C2F7A36AEC/a0/fda7e9f6/RetainedMode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Marching Squares Tutorial/Assets/Voxel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/567DF3E0-9192-41BA-98DB-88BEC4C6696F/ff/cb271ebe/Boolean.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VoxelTutorial/VoxelEngine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/351E49E2-A5BF-4FD6-BEAB-B458CE2255F3/d1/4d63a3dc/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/1d/e314586c/ScriptableRuntimeReflectionSystemSettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4684D128-CCC1-4E17-9166-D4C2F7A36AEC/e8/17bc581c/HostView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Voxels/Voxel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4684D128-CCC1-4E17-9166-D4C2F7A36AEC/aa/cf9969ce/AppStatusBar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4684D128-CCC1-4E17-9166-D4C2F7A36AEC/be/325faa43/EditorCompilationInterface.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4684D128-CCC1-4E17-9166-D4C2F7A36AEC/6a/716e9196/SceneVisibilityState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.1/Rider/Editor/UnitTesting/TestsCallback.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/599589BF-4CE2-4890-9B8A-14CBE4A2034E/01/56d4f9e0/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Marching Squares Tutorial/Assets/VoxelGrid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/509C587A-3371-4222-B5E8-1666B5099AF1/57/2acc67e2/GUIUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VoxelTutorial/Chunk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Marching Squares Tutorial/Assets/VoxelMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/509C587A-3371-4222-B5E8-1666B5099AF1/7e/1fd80488/Event.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OldScripts/World.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OldScripts/Voxel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OldScripts/Chunk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/d3/7bd472ff/ScriptableRuntimeReflectionSystemWrapper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Udemy/Voxel World Udemy/Assets/World.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/567DF3E0-9192-41BA-98DB-88BEC4C6696F/96/be15f847/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/c9/6e9756e2/SetupCoroutine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/43/c668e3a3/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/f7/8c87073d/RenderPipelineManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VoxelTutorial/ChunkId.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C5DC6B49-17B2-4E94-AE43-1E2D91EEAD2C/6a/e47a7c0b/Canvas.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Udemy/Voxel World Udemy/Assets/Block.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4684D128-CCC1-4E17-9166-D4C2F7A36AEC/03/52b04e2a/EditorApplication.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Udemy/Voxel World Udemy/Assets/Chunk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/97/687155f6/UnitySynchronizationContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Voxels/Chunk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Voxels/World.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4684D128-CCC1-4E17-9166-D4C2F7A36AEC/cb/afaf5d84/ConsoleWindow.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/World/Cell.cs" />
+        <option value="$PROJECT_DIR$/Assets/World/TestCell.cs" />
+        <option value="$PROJECT_DIR$/Assets/World/World.cs" />
+        <option value="$PROJECT_DIR$/Assets/World/WorldManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/World/ChunkId.cs" />
+        <option value="$PROJECT_DIR$/Assets/World/Chunk.cs" />
+        <option value="$PROJECT_DIR$/Assets/VoxelWorld/WorldManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/VoxelWorld/ChunkId.cs" />
+        <option value="$PROJECT_DIR$/Assets/VoxelWorld/Cell.cs" />
+        <option value="$PROJECT_DIR$/Assets/VoxelWorld/ChunkID.cs" />
+        <option value="$PROJECT_DIR$/Assets/VoxelTutorial/ChunkId.cs" />
+        <option value="$PROJECT_DIR$/Assets/VoxelTutorial/VoxelEngine.cs" />
+        <option value="$PROJECT_DIR$/Assets/VoxelTutorial/World.cs" />
+        <option value="$PROJECT_DIR$/Assets/VoxelTutorial/Chunk.cs" />
+        <option value="$PROJECT_DIR$/Assets/VoxelWorld/Voxel.cs" />
+        <option value="$PROJECT_DIR$/Assets/VoxelWorld/Chunk.cs" />
+        <option value="$PROJECT_DIR$/Assets/VoxelWorld/World.cs" />
+        <option value="$PROJECT_DIR$/Assets/OldScripts/World.cs" />
+        <option value="$PROJECT_DIR$/Assets/OldScripts/Chunk.cs" />
+        <option value="$PROJECT_DIR$/Assets/Voxels/World.cs" />
+        <option value="$PROJECT_DIR$/Assets/Voxels/Voxel.cs" />
+        <option value="$PROJECT_DIR$/Assets/OldScripts/Voxel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Voxels/Chunk.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SYOpfXwMczxMOaIG7Tt0SeA2Se" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="17280">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="17280" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="21292">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="21292" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="890a4eb1-15fe-43c4-8487-b1944b8680fa" name="Default Changelist" comment="" />
+      <created>1571737247702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571737247702</updated>
+      <workItem from="1571737251734" duration="3000" />
+      <workItem from="1571737455136" duration="4982000" />
+      <workItem from="1571847156827" duration="1175000" />
+      <workItem from="1571908088131" duration="1539000" />
+      <workItem from="1571909679480" duration="274000" />
+      <workItem from="1571910031464" duration="107000" />
+      <workItem from="1571910357766" duration="96000" />
+      <workItem from="1571910504312" duration="70000" />
+      <workItem from="1571910733040" duration="13890000" />
+      <workItem from="1571930104021" duration="7469000" />
+      <workItem from="1572087422556" duration="7354000" />
+      <workItem from="1572599423872" duration="4910000" />
+      <workItem from="1572699034745" duration="32000" />
+      <workItem from="1572699104866" duration="5974000" />
+      <workItem from="1572712819801" duration="1183000" />
+      <workItem from="1572778318687" duration="133000" />
+      <workItem from="1572778454509" duration="11947000" />
+      <workItem from="1572806749428" duration="3126000" />
+      <workItem from="1572864883130" duration="818000" />
+      <workItem from="1572953113152" duration="6688000" />
+      <workItem from="1572972273511" duration="107000" />
+      <workItem from="1572977924596" duration="1296000" />
+      <workItem from="1573036776821" duration="13294000" />
+      <workItem from="1573125809867" duration="14395000" />
+      <workItem from="1573204823918" duration="1972000" />
+      <workItem from="1573206821860" duration="16640000" />
+      <workItem from="1573223831858" duration="35000" />
+      <workItem from="1573223887407" duration="441000" />
+      <workItem from="1573224376998" duration="8000000" />
+      <workItem from="1573257620976" duration="3967000" />
+      <workItem from="1573293256038" duration="13329000" />
+      <workItem from="1573474610122" duration="138000" />
+      <workItem from="1573475487327" duration="1161000" />
+      <workItem from="1573476701616" duration="18474000" />
+      <workItem from="1573586924673" duration="11000" />
+      <workItem from="1573586963628" duration="3758000" />
+      <workItem from="1573637763734" duration="6181000" />
+      <workItem from="1573647323846" duration="1547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <reveal-manager>
+      <revealed-members>
+        <RevealItemInfo typeName="Voxels.VoxelData" fieldName="position" />
+      </revealed-members>
+    </reveal-manager>
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="this._realVertices" />
+        <watch expression="this._implicitVertices" />
+        <watch expression="this._implicitVertices" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
